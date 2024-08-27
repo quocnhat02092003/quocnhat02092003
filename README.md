@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhat</h1>
-<h3 align="center">I am a Internet of Things and Artifical Intelligent Engineer from Viet Nam</h3>
+<h3 align="center">I am a Internet of Things and Artificial Intelligent Engineer from Viet Nam</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
