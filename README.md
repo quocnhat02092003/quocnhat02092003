@@ -19,7 +19,7 @@
 <h1 align="left"><img src="https://i.pinimg.com/originals/6d/cd/94/6dcd94c7c4bf4800648ef7cbe0113c33.gif" width="30" height="30"/> About me:</h1>
 - 🌱 I’m currently learning **Python, CUDA, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/quocnhat02092003]([https://github.com/quocnhat02092003](https://github.com/quocnhat02092003?tab=repositories))
+- 👨‍💻 All of my projects are available at [[https://github.com/quocnhat02092003?tab=repositories](https://github.com/quocnhat02092003?tab=repositories)]
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100080393265280**
 <div align="center">
